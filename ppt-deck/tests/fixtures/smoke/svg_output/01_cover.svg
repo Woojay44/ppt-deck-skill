@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="cover" font-family="Microsoft YaHei, 微软雅黑, sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <rect id="band" data-pptx-role="decoration" x="0" y="0" width="24" height="720" fill="#1F4E79"/>
+  <g id="title" data-pptx-bounds="96 220 1100 200">
+    <text x="96" y="300" font-size="52" font-weight="bold" fill="#1F2937">中文字体测试：示例项目</text>
+    <text x="96" y="380" font-size="36" fill="#1F4E79">答辩小样（3 页）</text>
+  </g>
+  <g id="meta" data-pptx-bounds="96 520 1100 80">
+    <text x="96" y="570" font-size="26" fill="#4B5563">示例大学 · 2026 年 10 月</text>
+  </g>
+</svg>

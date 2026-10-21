@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="ending" font-family="Microsoft YaHei, 微软雅黑, sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#1F4E79"/>
+  <g id="thanks" data-pptx-bounds="140 260 1000 200" text-anchor="middle">
+    <text x="640" y="350" font-size="60" font-weight="bold" fill="#FFFFFF">谢谢各位老师</text>
+    <text x="640" y="420" font-size="28" fill="#DBEAFE">敬请批评指正</text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+# ppt-deck 的 Python 依赖 = ppt-master 引擎依赖 + 本 skill 脚本依赖
+# 引擎依赖：pip install -r %USERPROFILE%\.claude\skills\ppt-master\requirements.txt
+# 本 skill 脚本依赖：
+python-pptx>=0.6.21
+PyMuPDF>=1.23.0
+Pillow>=9.0.0
+fonttools>=4.40      # 标志组合版文字转曲
+opencv-python-headless>=4.8   # video_frames.py 抽帧

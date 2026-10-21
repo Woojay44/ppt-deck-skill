@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" data-pptx-page-role="content" font-family="Microsoft YaHei, 微软雅黑, sans-serif">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <g id="title" data-pptx-bounds="80 50 1120 80">
+    <text x="80" y="110" font-size="40" font-weight="bold" fill="#1F2937">字号检查：正文 26px ≈ 19.5pt，投影可读</text>
+  </g>
+  <g id="points" font-size="26" fill="#374151" data-pptx-bounds="80 170 1120 400">
+    <text x="80" y="220">• 中文常用字：数据采集、多模态特征、轻量图神经网络</text>
+    <text x="80" y="290">• 中英混排：GNN、CLIP、Streamlit、F1-score 0.00</text>
+    <text x="80" y="360">• 标点与符号：“引号”、（括号）、→ 箭头、≥ 18pt</text>
+    <text x="80" y="430">• 生僻字测试：氤氲、魑魅魍魉、饕餮</text>
+  </g>
+  <g id="footer" data-pptx-role="footer" data-pptx-bounds="80 650 1120 40">
+    <text x="1200" y="680" font-size="18" fill="#9CA3AF" text-anchor="end">2</text>
+  </g>
+</svg>
